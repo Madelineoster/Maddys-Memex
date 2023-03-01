@@ -10,15 +10,15 @@ projects::[[]]
 --- 
 ### Sources
 
-[@johnfdooleyarevolutionaryciper]
+[[@johnfdooleyarevolutionarycipher]]
 
-[@lisagitelmanmediaashistoricalsubjects]
+[[@lisagitelmanmediaashistoricalsubjects]]
 
-[@shivkumarfromclaytabletstoweb]
+[[@shivkumarfromclaytabletstoweb]]
 
-[@vannevarbushaswemaythink]
+[[@vannevarbushaswemaythink]]
 
-[@wayneweigmanddeweydecimal]
+[[@wayneweigmanddeweydecimal]]
 
 --- 
 ### Thoughts 
@@ -26,27 +26,32 @@ projects::[[]]
 
 #### Mediums
 
-[Mediums as a Means of Deciphering]
+[[Mediums as a Means of Deciphering]]
 
-[Adapting to New Mediums]
+[[Adapting to New Mediums]]
 
 #### Research and the Science Feild
 
-[Specializations]
+[[Specializations]]
 
-[Peace as a Problem for Scientists]
+[[Peace as a Problem for Scientists]]
 
-[Digital Networks in the Future]
+[[Digital Networks in the Future]]
 
-[Physical vs Mental Progress]
+[[Physical vs Mental Progress]]
 
-[Religion and Categorization Systems]
+[[Religion and Categorization Systems]]
 
 #### Privacy
 
-[Privacy Then vs Now]
+[[Privacy Then vs Now]]
 
-[Power and Knowledge]
+[[Power and Knowledge]]
+
+## Graph View
+
+
+![[Pasted image 20230222134040.png]]
 
 
 
