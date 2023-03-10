@@ -31,3 +31,10 @@ There is a definite relation between power and knowledge. In [[@johnfdooleyarevo
 [[Religion and Categorization Systems]]
 
 [[Specializations]]
+
+[[Globalization]]
+
+[[Destruction of the Rainforest]]
+
+[[Colonial Rivalry]]
+

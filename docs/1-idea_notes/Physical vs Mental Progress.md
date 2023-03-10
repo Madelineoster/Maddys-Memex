@@ -25,3 +25,11 @@ At a time when everything physical in our lives is made to be easier and more co
 [[Power and knowledge]]
 
 [[Specializations]]
+
+[[Analytical Engine]]
+
+[[Social Necessity]]
+
+[[Development of Fax Machine Technology]]
+
+[[Technological Determination]]

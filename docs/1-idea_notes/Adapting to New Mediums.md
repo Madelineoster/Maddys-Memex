@@ -28,3 +28,9 @@ When we have a new medium it changes how we interact with the old medium. We wil
 
 [[Privacy then vs now]]
 
+[[Technological Determination]]
+
+[[Social Necessity]]
+
+[[Development of Fax Machine Technology]]
+

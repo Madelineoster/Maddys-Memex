@@ -20,6 +20,16 @@ projects::[[]]
 
 [[@wayneweigmanddeweydecimal]]
 
+[[@simonemullerfromcablingtheatlantictowiringtheworld]]
+
+[[@jonathoncoopersmithfaxed]]
+
+[[@johntullyvictorianecologicaldisaster]]
+
+[[@javierquevadotelecommunicationsandcolonialrivalry]]
+
+[[@brucesterlingluigifedericomenabreapayingtributetoadalovelace]]
+
 --- 
 ### Thoughts 
 
@@ -42,16 +52,33 @@ projects::[[]]
 
 [[Religion and Categorization Systems]]
 
+[[Development of Fax Machine Technology]]
+
+[[Analytical Engine]]
+
+[[Social Necessity]]
+
+[[Technological Determination]]
+
 #### Privacy
 
 [[Privacy Then vs Now]]
 
 [[Power and Knowledge]]
 
+#### Colonialism and The World
+
+[[Colonial Rivalry]]
+
+[[Destruction of the Rainforest]]
+
+[[Globalization]]
+
+
+
 ## Graph View
 
-
-![[Pasted image 20230222134040.png]]
+![[Pasted image 20230310135337.png]]
 
 
 
