@@ -7,7 +7,11 @@ project:
 tags::  
 projects::[[]]
 
+Welcome to My Personal Memex!
+
 --- 
+## Map of Content 1
+
 ### Sources
 
 [[@johnfdooleyarevolutionarycipher]]
@@ -30,9 +34,18 @@ projects::[[]]
 
 [[@brucesterlingluigifedericomenabreapayingtributetoadalovelace]]
 
+[[@peterdenningthescienceofcomputing]]
+
+[[@paoloborythemythoftheworldwideweb]]
+
+[[@theevolutionoftheinternet]]
+
+[[@kevindriscollbirthofthemodemworld]]
+
+[[@katecrawfordanatomyofanaisystem]]
+
 --- 
 ### Thoughts 
-
 
 #### Mediums
 
@@ -74,16 +87,96 @@ projects::[[]]
 
 [[Globalization]]
 
+---
+## Map of Content 2
+
+### First Memex
+
+[[@johnfdooleyarevolutionarycipher]]
+
+[[@lisagitelmanmediaashistoricalsubjects]]
+
+[[@shivkumarfromclaytabletstoweb]]
+
+[[@vannevarbushaswemaythink]]
+
+[[@wayneweigmanddeweydecimal]]
+
+[[Adapting to New Mediums]]
+
+[[Digital Networks in the Future]]
+
+[[Peace as a Problem for Scientists]]
+
+[[Physical vs Mental Progress]]
+
+[[Mediums as a Means of Deciphering]]
+
+[[Power and knowledge]]
+
+[[Privacy then vs now]]
+
+[[Religion and Categorization Systems]]
+
+---
+### Second Memex
+
+[[@simonemullerfromcablingtheatlantictowiringtheworld]]
+
+[[@jonathoncoopersmithfaxed]]
+
+[[@johntullyvictorianecologicaldisaster]]
+
+[[@javierquevadotelecommunicationsandcolonialrivalry]]
+
+[[@brucesterlingluigifedericomenabreapayingtributetoadalovelace]]
+
+[[Colonial Rivalry]]
+
+[[Destruction of the Rainforest]]
+
+[[Development of Fax Machine Technology]]
+
+[[Globalization]]
+
+[[Analytical Engine]]
+
+[[Social Necessity]]
+
+[[Technological Determination]]
+
+---
+### Third Memex
+
+[[@peterdenningthescienceofcomputing]]
+
+[[@paoloborythemythoftheworldwideweb]]
+
+[[@theevolutionoftheinternet]]
+
+[[@kevindriscollbirthofthemodemworld]]
+
+[[@katecrawfordanatomyofanaisystem]]
+
+[[Convenience]]
+
+[[Conceptualization Over Operation]]
+
+[[Decentralization]]
+
+[[Protocols]]
+
+[[The Future of AI]]
+
+[[Local Networks of the Early Internet]]
+
+[[Perceptions of the Internet]]
+
+[[War as a Basis for Technological Development]]
 
 
-## Graph View
 
-![[Pasted image 20230310135337.png]]
-
-
-
-
-
+![[Pasted image 20230412141211.png]]
 
 
 
