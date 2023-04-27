@@ -190,6 +190,10 @@ Welcome to My Personal Memex!
 
 [[War as a Basis for Technological Development]]
 
+---
+[[0_Final Journey_1]]
+
+[[0_Final Journey_2]]
 
 
 ![[Pasted image 20230412141211.png]]
